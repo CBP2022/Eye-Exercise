@@ -18,3 +18,5 @@ You will see the eye appear on your screen, eye ball will recognize your mouse m
 
 # [LICENSE](https://github.com/CBP2022/eye-movement/blob/master/LICENSE)
 ![image](https://user-images.githubusercontent.com/92131037/170177175-391f19c9-6e31-473b-90d2-6587fb941b22.png)
+
+# please email baopengc@yahoo.com for more information.
